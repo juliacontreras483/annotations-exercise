@@ -1,4 +1,4 @@
-@SuppressWarnings("deprecated")
+//@SuppressWarnings("deprecated")
 public class Main {
 //    @SuppressWarnings("deprecation")
     public static void main(String[] args) {
